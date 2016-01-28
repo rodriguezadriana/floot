@@ -1,0 +1,24 @@
+div{
+
+	border-style: double;
+	width: 800px;
+	
+
+}
+
+.adentro{
+
+	border-style: dotted;
+	background-color: red;
+	
+	height:150px;
+	width: 250px;
+	
+}
+.amarillo{
+	background-color: yellow;
+}
+
+.verde{
+	background-color: green;
+}
